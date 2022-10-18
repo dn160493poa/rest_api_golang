@@ -1,0 +1,4 @@
+time="2022-10-18T13:06:29+03:00" level=info msg="Create router" func="main.main()" file="app.go:15"
+time="2022-10-18T13:06:29+03:00" level=info msg="Register user handler" func="main.main()" file="app.go:18"
+time="2022-10-18T13:06:29+03:00" level=info msg="Start application" func="main.start()" file="app.go:28"
+time="2022-10-18T13:06:29+03:00" level=info msg="server is listening 0.0.0.0:1234" func="main.start()" file="app.go:40"
